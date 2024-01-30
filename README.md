@@ -4,7 +4,7 @@ UsersRegistration This is a back end application for registration of Users.
 
 Tecnologies: Java, Gradle, SpringBoot, RestApi, and mysql.
 
-The aplication allow us to create, get, Delete, and update user informations.
+The aplication allow create, get, Delete, and update user informations.
 
 Instrucions:
 
