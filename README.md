@@ -6,6 +6,9 @@ Tecnologies: Java, Gradle, SpringBoot, RestApi, and mysql.
 
 The aplication allow Create, Get, Delete, and Update user informations.
 
+
+
+
 General instrucions for running the application:
 
 1º Please start mysql, create a database, then create a table with the follow parameters: id,lastName,firstName,lastName,streetName,streetNumber,poBox,city,state,zipCode,country,profile,email,password,confirmPassword.
